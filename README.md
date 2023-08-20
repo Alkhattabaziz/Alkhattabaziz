@@ -1,7 +1,7 @@
 <h1>Hi, I'm Alkhattab! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
- - [Azure Sentinel (SIEM)]
+ - [ Azure Sentinel (SIEM) ]
 
 <h2> 🤳 Connect with me:</h2>
 
