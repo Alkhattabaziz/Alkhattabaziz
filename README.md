@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [Azure Sentinel (SIEM)](https://github.com/Alkhattabaziz/Azure_Sentinel_SIEM_HomeLab)
+ - [Run DeepKeek R1 Locally](https://github.com/Alkhattabaziz/Run-DeepSeekAI-Locally)
  
 <h2> 🤳 Connect with me:</h2>
 
